@@ -1,2 +1,2 @@
 # data-science-projects-
-all projects related to data science 
+The projects include data collection, data visualization and analysis with machine learning modeling 
